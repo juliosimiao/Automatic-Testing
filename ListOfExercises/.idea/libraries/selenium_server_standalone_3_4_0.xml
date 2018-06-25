@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="selenium-server-standalone-3.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../driver/selenium-server-standalone-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/cobertura-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/cucumber-core-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/cucumber-java-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/cucumber-junit-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/cucumber-jvm-deps-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/cucumber-reporting-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/gherkin-2.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/mockito-all-2.0.2-beta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/excel/poi-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/excel/poi-examples-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/excel/poi-excelant-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/excel/poi-ooxml-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/excel/poi-ooxml-schemas-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/excel/poi-scratchpad-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/excel/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/excel/curvesapi-1.04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/excel/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/excel/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/excel/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/excel/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/excel/commons-codec-1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jars/mockito-all-2.0.2-beta.jar!/" />
+    </SOURCES>
+  </library>
+</component>
